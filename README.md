@@ -1,4 +1,6 @@
-# m1n1: A bootloader and experimentation playground for Apple Silicon
+# fk-m1n1
+
+> Forked from omacom/m1n1 (MIT). See `SIGMAOS_FORK.md`.
 
 ## Building
 
