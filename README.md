@@ -156,3 +156,8 @@ m1n1 embeds other Rust crates. Licenses can be found in their vendor directories
 J700 Stage 1 configuration, ESP Stage 2 setup and installation are documented in
 [docs/j700-install.md](docs/j700-install.md). Release packages include this guide
 as `ESP-AND-INSTALL.md`.
+## Documentation
+
+Wiki documentation is available in the SigmaOS Wiki Staging repository:
+
+- [SigmaOS Wiki Staging](https://github.com/AaryanSinghChauhan09/sigmaos-wiki-staging#SigmaOS-m1n1) - Full Wiki documentation for all SigmaOS components
