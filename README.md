@@ -1,6 +1,6 @@
 # fk-m1n1
 
-> Forked from omacom/m1n1 (MIT). See `SIGMAOS_FORK.md`.
+> Forked from SigmaOS/m1n1 (MIT). See `SIGMAOS_FORK.md`.
 
 ## Building
 
